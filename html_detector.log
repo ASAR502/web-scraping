@@ -1,0 +1,4 @@
+2025-07-24 15:46:35,874 - INFO - Scanning URL: https://httpbin.org/html
+2025-07-24 15:46:37,138 - INFO - First scan for https://httpbin.org/html - creating baseline
+2025-07-24 15:47:00,729 - INFO - Scanning URL: https://httpbin.org/html
+2025-07-24 15:47:03,355 - INFO - No changes detected in https://httpbin.org/html

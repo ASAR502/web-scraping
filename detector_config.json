@@ -1,0 +1,12 @@
+{
+  "db_path": "html_detector.db",
+  "email_enabled": false,
+  "smtp_server": "smtp.gmail.com",
+  "smtp_port": 587,
+  "email": "your-email@gmail.com",
+  "email_password": "your-app-password",
+  "recipients": ["recipient@example.com"],
+  "generate_diff": true,
+  "scan_interval": 3600,
+  "urls_to_monitor": ["https://example.com", "https://httpbin.org/html"]
+}

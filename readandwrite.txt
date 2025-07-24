@@ -1,0 +1,2 @@
+i am writing in file just after creation .
+i am appending the data  first time in file 1.
